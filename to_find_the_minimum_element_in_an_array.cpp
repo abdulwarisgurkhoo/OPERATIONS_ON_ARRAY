@@ -1,5 +1,5 @@
 /******************************to_find_the_minimum_element_in_an_array*******************************/
-/**********************************to_find_maximum_value*****************************/
+
 #include<iostream>
 using namespace std;
 int min(int arr[],int count)
