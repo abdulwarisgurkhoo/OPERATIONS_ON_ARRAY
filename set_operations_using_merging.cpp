@@ -94,7 +94,7 @@ int ispresent (int arr[],int n,int num)
 int main ()
 {
     int size1,size2;
-        cout<<"\nenter the size of ist array\n";
+        cout<<"\njenter the size of ist array\n";
         cin>>size1;
         int arr1[size1];
         cout<<"\nenter the no. of elements of ist array \n";
